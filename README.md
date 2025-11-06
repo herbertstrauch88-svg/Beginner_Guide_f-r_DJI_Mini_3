@@ -1,4 +1,4 @@
-# Beginner_Guide_für_DJI_Mini_3
+# Erste-Schritte-mit-deiner-neuen-Drohne
 Ein kurzer Beginner Guide für die ersten Schritte mit deiner DJI Mini 3 Drohne 
 
 #
